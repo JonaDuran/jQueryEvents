@@ -1,0 +1,57 @@
+
+input {
+    margin-right: 0.5em; !important;
+    border: solid 1px #222;
+}
+
+
+p {
+    margin-top: 8em;
+    color: #aaa;
+    font-size: 18px;
+}
+
+.button {
+    width: 55px;
+    margin: 0;
+}
+
+.fig {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background: steelblue;
+    border-radius: 50%;
+    box-shadow: 1px 1px 4px rgba(0,0,0,.8);
+    cursor: default;
+    transform: scale(1);
+}
+
+
+#color {
+    width: 280px;
+    text-align: center;
+}
+
+#cuerpo {
+    font-family: calibri;
+    text-align: center;
+    margin: auto auto;
+    margin-top: 8px;
+    background: #eef;
+    border: 2px solid green;
+    -webkit-user-select: none;
+}
+
+#form {
+    text-align: center;
+    margin: auto auto;
+    margin-top: 8px;
+    background: #eef;
+    line-height: 3em;
+    border: 2px solid green;
+}
+
+#radius {
+    vertical-align: middle;
+}
